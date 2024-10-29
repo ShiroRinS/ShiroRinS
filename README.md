@@ -2,6 +2,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science student and a game developer with a diverse skill set spanning Desktop, Mobile, and Multiplayer games. I also have a background in website development, with experience deploying AI models, and recently won third place in the [National Software Contest 2024](https://www.facebook.com/photo/?fbid=8740391092655821&set=oa.886373373391003&locale=th_TH)
  (NSC Thailand) for my web app project [Vocal Sense](https://vocalsense.pythonanywhere.com/)
 
+# Projects:
+- Sword Idle - Mobile game (Public on itch) (Testing Phase on Google Play Store)
+- Vocal Sense - AI voice detector website. Provided SaaS to detect AI-generated voices to avoid Voice Phishing (Vishing), and Impersonation.
+- Tetra Destiny - Multiplayer Tertis-like game.
+- Sky Bound - 3D, Only Up!-like game developed on Unreal Engine 5
+
+  
+<!-- [On process to be published] - Sword Sprinter - Mobile game (On Google Play Store) -->
+
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
