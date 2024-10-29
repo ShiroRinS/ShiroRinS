@@ -13,7 +13,7 @@
 <!-- [In progress] - Unity Game -->
 
 # 🏆 Achivements
-🥉 **3rd Place - [National Software Contest 2024: Innovation For Science](https://www.facebook.com/groups/NSCThailand/?locale=th_TH), Thammasat University, 2024** 
+🥉 **3rd Place - [National Software Contest 2024: Innovation For Science (NSC Thailand)](https://www.facebook.com/groups/NSCThailand/?locale=th_TH), Thammasat University, 2024** 
 Developed and launched a web application for detecting AI-generated voice, utilizing an Audio Classification AI model within the Django framework. <br/>
 <details>
   <summary><strong>My Key Responsibilities:</strong></summary>
@@ -46,7 +46,8 @@ Developed and built a smart farm monitoring system using AI classification to de
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://camo.githubusercontent.com/98985571565e01ca5127c24d4552650105d85815e90a01078e07d13e32f1964b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f267374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=15151)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -69,7 +70,6 @@ Developed and built a smart farm monitoring system using AI classification to de
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
