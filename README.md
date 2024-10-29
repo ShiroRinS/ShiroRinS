@@ -3,14 +3,27 @@
  (NSC Thailand) for my web app project [Vocal Sense](https://vocalsense.pythonanywhere.com/)
 
 # Projects:
-- Sword Idle - Mobile game (Public on itch) (Testing Phase on Google Play Store)
-- Vocal Sense - AI voice detector website. Provided SaaS to detect AI-generated voices to avoid Voice Phishing (Vishing), and Impersonation.
-- Tetra Destiny - Multiplayer Tertis-like game.
-- Sky Bound - 3D, Only Up!-like game developed on Unreal Engine 5
-
-  
+- **SwordIdle** - Mobile game [Public on itch](https://kokori-studio.itch.io/sword-idle) (Testing Phase on Google Play Store)
+- **Vocal Sense** - AI-voice detector website. Provided SaaS to detect AI-generated voices to avoid Voice Phishing (Vishing), and Impersonation. [Visit Vocal Sense!](https://vocalsense.pythonanywhere.com/)
+- **Tetra Destiny** - Multiplayer Tertis-like game.
+- **Sky Bound** - 3D, Only Up!-like game developed on Unreal Engine 5.
 <!-- [On process to be published] - Sword Sprinter - Mobile game (On Google Play Store) -->
+<!-- [In progress] - VR Game -->
+<!-- [In progress] - Unity Game -->
 
+# Achivements 🏆
+🥉 **3rd Place - [National Software Contest 2024: Innovation For Science](https://www.facebook.com/groups/NSCThailand/?locale=th_TH), Thammasat University, 2024** 
+Created and deployed a web application to detect AI-generated voice deployed on the internet with the Audio Classification AI Model implementation using the Django framework.
+<br/>(My Key Responsibilities: Developed the website, deployed the AI model, and made it work together from User Input to Visual Output excluding model training, but I deployed the model.)<br/>
+🥉 **3rd Place - [Internet of Things for Farming Competition](https://www.facebook.com/story.php/?story_fbid=763083972494009&id=100063772383859), Kasetsart University, 2023** 
+Develop and Build a smart monitoring farm system using classification AI to detect plant disease. Use Python for AI and C for Hardware Sensors.
+<br/>(My Key Responsibilities: Integrates sensors with Arduino and Raspberry Pi, and Coding to retrieve information from sensors and prepared to be sent via APIs (C language))<br/>
+
+# Expirences
+2 years of game development 2022-Present
+
+# Certificates
+- Oracle: Java
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
