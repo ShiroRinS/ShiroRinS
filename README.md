@@ -48,9 +48,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ShiroRinS&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShiroRinS&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ShiroRinS&theme=gruv&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<!-- &theme=gruv&hide_border=false -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShiroRinS&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroRinS&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroRinS&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShiroRinS&icon=0&color=0)](https://visitcount.itsvg.in)
