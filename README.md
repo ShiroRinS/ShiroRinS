@@ -1,29 +1,48 @@
 # 👋 Hi, I'm Tarnakij!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science student and a game developer with a diverse skill set spanning Desktop, Mobile, and Multiplayer games. I also have a background in website development, with experience deploying AI models, and recently won third place in the [National Software Contest 2024](https://www.facebook.com/photo/?fbid=8740391092655821&set=oa.886373373391003&locale=th_TH)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science student and a game developer with a diverse skill set spanning Desktop, Mobile, and Multiplayer games. I also have a background in website development, with experience deploying AI models, and recently won third place in the [National Software Contest 2024](https://www.facebook.com/media/set?set=oa.886373373391003&type=3&locale=th_TH)
  (NSC Thailand) for my web app project [Vocal Sense](https://vocalsense.pythonanywhere.com/)
 
-# Projects:
-- **SwordIdle** - Mobile game [Public on itch](https://kokori-studio.itch.io/sword-idle) (Testing Phase on Google Play Store)
-- **Vocal Sense** - AI-voice detector website. Provided SaaS to detect AI-generated voices to avoid Voice Phishing (Vishing), and Impersonation. [Visit Vocal Sense!](https://vocalsense.pythonanywhere.com/)
-- **Tetra Destiny** - Multiplayer Tertis-like game.
-- **Sky Bound** - 3D, Only Up!-like game developed on Unreal Engine 5.
+# 📊 Projects:
+- **SwordIdle**: A mobile game where players click to swing a sword and earn scores for upgrades. [Play it on itch!](https://kokori-studio.itch.io/sword-idle) (Currently in testing phase on Google Play Store)
+- **Vocal Sense**: An AI voice detection website that provides SaaS solutions to identify AI-generated voices, helping to prevent voice phishing (vishing) and impersonation. [Explore Vocal Sense!](https://vocalsense.pythonanywhere.com/)
+- **Tetra Destiny**: A multiplayer game inspired by "Tetris", offering a co-op gameplay on the classic puzzle experience.
+- **Sky Bound**: A 3D game inspired by "Only Up!" developed using Unreal Engine 5, featuring immersive environments and challenging gameplay.
+
 <!-- [On process to be published] - Sword Sprinter - Mobile game (On Google Play Store) -->
 <!-- [In progress] - VR Game -->
 <!-- [In progress] - Unity Game -->
 
-# Achivements 🏆
+# 🏆 Achivements
 🥉 **3rd Place - [National Software Contest 2024: Innovation For Science](https://www.facebook.com/groups/NSCThailand/?locale=th_TH), Thammasat University, 2024** 
-Created and deployed a web application to detect AI-generated voice deployed on the internet with the Audio Classification AI Model implementation using the Django framework.
-<br/>(My Key Responsibilities: Developed the website, deployed the AI model, and made it work together from User Input to Visual Output excluding model training, but I deployed the model.)<br/>
+Developed and launched a web application for detecting AI-generated voice, utilizing an Audio Classification AI model within the Django framework. <br/>
+<details>
+  <summary><strong>My Key Responsibilities:</strong></summary>
+  <ul>
+    <li>Built the website interface and infrastructure (Python, Django, JavaScript, HTML, CSS, Bootstrap)</li>
+    <li>Deployed and integrated the AI model to seamlessly handle user inputs and display classification results</li>
+    <li>Managed end-to-end functionality, from user input to visual output (excluding model training)</li>
+    <li>Deployed the application on the internet for public access</li>
+    <li>Served as a pitch presenter, effectively communicating project objectives and outcomes</li>
+ </ul>
+</details>
+
 🥉 **3rd Place - [Internet of Things for Farming Competition](https://www.facebook.com/story.php/?story_fbid=763083972494009&id=100063772383859), Kasetsart University, 2023** 
-Develop and Build a smart monitoring farm system using classification AI to detect plant disease. Use Python for AI and C for Hardware Sensors.
-<br/>(My Key Responsibilities: Integrates sensors with Arduino and Raspberry Pi, and Coding to retrieve information from sensors and prepared to be sent via APIs (C language))<br/>
+Developed and built a smart farm monitoring system using AI classification to detect plant disease, leveraging Python for AI model development and C for hardware sensor integration.
+<details>
+  <summary><strong>My Key Responsibilities:</strong></summary>
+  <ul>
+    <li>Connected and calibrated sensors with Arduino and Raspberry Pi for real-time data collection</li>
+    <li>Programmed and retrieved sensor data to ensure accurate environmental readings (C language)</li>
+    <li>Prepared sensor data for API transmission, enabling seamless integration with external systems (JSON)</li>
+    <li>Served as one of the presenters, establishing a welcoming atmosphere and introducing the project to visitors</li>
+  </ul>
+</details>
 
-# Expirences
-2 years of game development 2022-Present
+# 📈 Experiences
+**Game Development Experience** (2022 - Present)
 
-# Certificates
-- Oracle: Java
+# 💼 Certificates
+**Oracle Certified Associate Java Programmer** (Awarded to individuals who excel in performance and meet the rigorous requirements in university-level coursework.)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -34,10 +53,10 @@ Develop and Build a smart monitoring farm system using classification AI to dete
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
