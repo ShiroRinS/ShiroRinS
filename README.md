@@ -3,7 +3,7 @@
  (NSC Thailand) for my web app project [Vocal Sense](https://vocalsense.pythonanywhere.com/)
 
 # 📊 Projects:
-- **SwordIdle**: A mobile game where players click to swing a sword and earn scores for upgrades. [Play it on itch!](https://kokori-studio.itch.io/sword-idle) (Currently in testing phase on Google Play Store)
+- **[SwordIdle](https://github.com/ShiroRinS/Portfolio-Sword-Idle)**: A mobile game where players click to swing a sword and earn scores for upgrades. [Play it on itch!](https://kokori-studio.itch.io/sword-idle) (Currently in testing phase on Google Play Store)
 - **Vocal Sense**: An AI voice detection website that provides SaaS solutions to identify AI-generated voices, helping to prevent voice phishing (vishing) and impersonation. [Explore Vocal Sense!](https://vocalsense.pythonanywhere.com/)
 - **Tetra Destiny**: A multiplayer game inspired by "Tetris", offering a co-op gameplay on the classic puzzle experience.
 - **Sky Bound**: A 3D game inspired by "Only Up!" developed using Unreal Engine 5, featuring immersive environments and challenging gameplay.
@@ -26,7 +26,7 @@ Developed and launched a web application for detecting AI-generated voice, utili
  </ul>
 </details>
 
-🥉 **3rd Place - [Internet of Things for Farming Competition](https://www.facebook.com/story.php/?story_fbid=763083972494009&id=100063772383859), Kasetsart University, 2023** 
+🥉 **3rd Place - [Innovation Robotic AI & IoT Contest 2023: AI and IoT for Agriculture](https://www.facebook.com/story.php/?story_fbid=763083972494009&id=100063772383859), Kasetsart University, 2023** 
 Developed and built a smart farm monitoring system using AI classification to detect plant disease, leveraging Python for AI model development and C for hardware sensor integration.
 <details>
   <summary><strong>My Key Responsibilities:</strong></summary>
