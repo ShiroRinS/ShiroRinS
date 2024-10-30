@@ -7,6 +7,7 @@
 - **Vocal Sense**: An AI voice detection website that provides SaaS solutions to identify AI-generated voices, helping to prevent voice phishing (vishing) and impersonation. [Explore Vocal Sense!](https://vocalsense.pythonanywhere.com/)
 - **Tetra Destiny**: A multiplayer game inspired by "Tetris", offering a co-op gameplay on the classic puzzle experience.
 - **Sky Bound**: A 3D game inspired by "Only Up!" developed using Unreal Engine 5, featuring immersive environments and challenging gameplay.
+- **Sword Sprinter**: A mobile game where players run through dungeons, face epic battles with a trusty sword, and upgrade skills and weapons to achieve new heights of power. (Available on the Google Play Store!)
 
 <!-- [On process to be published] - Sword Sprinter - Mobile game (On Google Play Store) -->
 <!-- [In progress] - VR Game -->
