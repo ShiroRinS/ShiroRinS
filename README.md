@@ -14,7 +14,7 @@
 <!-- [In progress] - Unity Game -->
 
 # 🏆 Achivements
-🥉 **3rd Place - [National Software Contest 2024: Innovation For Science (NSC Thailand)](https://www.facebook.com/groups/NSCThailand/?locale=th_TH), Thammasat University, 2024** 
+🥉 **3rd Place - [National Software Contest 2024: Innovation For Science (NSC Thailand)](https://github.com/ShiroRinS/Portfolio-Vocal-Sense/tree/main), Thammasat University, 2024** <!-- (https://www.facebook.com/groups/NSCThailand/?locale=th_TH) -->
 Developed and launched a web application for detecting AI-generated voice, utilizing an Audio Classification AI model within the Django framework. <br/>
 <details>
   <summary><strong>My Key Responsibilities:</strong></summary>
