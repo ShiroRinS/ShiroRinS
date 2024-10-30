@@ -4,7 +4,7 @@
 
 # 📊 Projects:
 - **[SwordIdle](https://github.com/ShiroRinS/Portfolio-Sword-Idle)**: A mobile game where players click to swing a sword and earn scores for upgrades. [Play it on itch!](https://kokori-studio.itch.io/sword-idle) (Currently in testing phase on Google Play Store)
-- **Vocal Sense**: An AI voice detection website that provides SaaS solutions to identify AI-generated voices, helping to prevent voice phishing (vishing) and impersonation. [Explore Vocal Sense!](https://vocalsense.pythonanywhere.com/)
+- **[Vocal Sense](https://github.com/ShiroRinS/Portfolio-Vocal-Sense/tree/main)**: An AI voice detection website that provides SaaS solutions to identify AI-generated voices, helping to prevent voice phishing (vishing) and impersonation. [Explore Vocal Sense!](https://vocalsense.pythonanywhere.com/)
 - **Tetra Destiny**: A multiplayer game inspired by "Tetris", offering a co-op gameplay on the classic puzzle experience.
 - **Sky Bound**: A 3D game inspired by "Only Up!" developed using Unreal Engine 5, featuring immersive environments and challenging gameplay.
 - **Sword Sprinter**: A mobile game where players run through dungeons, face epic battles with a trusty sword, and upgrade skills and weapons to achieve new heights of power. (Available on the Google Play Store!)
