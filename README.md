@@ -43,9 +43,9 @@ Developed a smart farm monitoring system utilizing AI classification to detect p
 **Game Development Experience** (2022 - Present)
 
 # 💼 Certificates
-- **Oracle Database Fundamental** (Awarded to individuals who excel in performance and meet the rigorous requirements in university-level coursework.)
-- **Oracle Academy Cloud Program**
-- **AWS depa Growth Lab GEN AI Hackathon - Certificate of Attendance**
+- **Oracle Database Fundamental** - Awarded to individuals who excel in performance and meet the rigorous requirements in university-level coursework.
+- **Oracle Academy Cloud Program** - Certificate of Attendance
+- **AWS depa Growth Lab GEN AI Hackathon** - Certificate of Attendance
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
