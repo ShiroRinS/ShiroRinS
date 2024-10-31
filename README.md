@@ -13,7 +13,7 @@
 <!-- [In progress] - VR Game -->
 <!-- [In progress] - Unity Game -->
 
-# 🏆 Achivements
+# 🏆 Achievements
 🥉 **3rd Place - [National Software Contest 2024: Innovation For Science (NSC Thailand)](https://github.com/ShiroRinS/Portfolio-Vocal-Sense/tree/main), Thammasat University, 2024** <!-- (https://www.facebook.com/groups/NSCThailand/?locale=th_TH) -->
 Developed and launched a web application for detecting AI-generated voice, utilizing an Audio Classification AI model within the Django framework. <br/>
 <details>
@@ -28,7 +28,7 @@ Developed and launched a web application for detecting AI-generated voice, utili
 </details>
 
 🥉 **3rd Place - [Innovation Robotic AI & IoT Contest 2023: AI and IoT for Agriculture](https://www.facebook.com/story.php/?story_fbid=763083972494009&id=100063772383859), Kasetsart University, 2023** 
-Developed and built a smart farm monitoring system using AI classification to detect plant disease, leveraging Python for AI model development and C for hardware sensor integration.
+Developed a smart farm monitoring system utilizing AI classification to detect plant diseases, integrating hardware sensors using C programming.
 <details>
   <summary><strong>My Key Responsibilities:</strong></summary>
   <ul>
