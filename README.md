@@ -40,8 +40,8 @@ Developed a smart farm monitoring system utilizing AI classification to detect p
 </details>
 
 # 📈 Experiences
-**Game Development Experience** (2022 - Present)
-**Data Science Internship** (2025 June - Present)
+- **Game Development Experience** (2022 - Present)
+- **Data Science Internship** (2025 June - Present)
 
 # 💼 Certificates
 - **Oracle Database Fundamental**, May 2023 - Awarded to individuals who excel in performance and meet the rigorous requirements in university-level coursework.
