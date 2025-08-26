@@ -45,7 +45,7 @@ Developed a smart farm monitoring system utilizing AI classification to detect p
 # 💼 Certificates
 - **Oracle Database Fundamental**, May 2023 - Awarded to individuals who excel in performance and meet the rigorous requirements in university-level coursework.
 - **Oracle Academy Cloud Program**, Feb 2023 - Certificate of Attendance
-- **AWS depa Growth Lab GEN AI Hackathon** - Certificate of Attendance
+- **AWS depa Growth Lab GEN AI Hackathon**, Oct 2024 - Certificate of Attendance
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
