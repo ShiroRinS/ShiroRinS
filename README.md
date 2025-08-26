@@ -48,6 +48,13 @@ Developed a smart farm monitoring system utilizing AI classification to detect p
 - **Oracle Academy Cloud Program**, Feb 2023 - Certificate of Attendance
 - **AWS depa Growth Lab GEN AI Hackathon**, Oct 2024 - Certificate of Attendance
 
+# 🏁 Competitions & Achievements
+- **Second Runner-up** – National Software Contest 2024: Innovation For Science (NSC Thailand)
+- **Second Runner-up** – Innovation Robotic AI and IoT Contest, Kasetsart University (Aug - Sep2023)
+- **Participant** – AWS Gen AI Hackathon 2024 by AWS (Sep - Oct 2024)
+- **Participant** – NocNoc Hackathon 2024 (Home & Living Personalization) (Sep-Oct 2024)
+- **Participant** – Huawei Developer Competition 2024 Asia Pacific (Sep-Nov 2024)
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
